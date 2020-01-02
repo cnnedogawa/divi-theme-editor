@@ -4,4 +4,4 @@ Divi’s default design is simple and meant to be a good starting point. Every m
 To manage a module’s default design, simply click the new Global Defaults icon to flip over to the defaults editor. Here you can customize the default design of that module. Changes made here affect your entire website and the next time you add a module to a page, it will automatically assume its default design and the default values will be reflected in the settings popup. You can still further customize any individual module and overwrite its default style.
 
 
-Check out for more details https://artsnet.org/divi-theme-editor-global-defaults/
+Check out for more details http://bestwordpressthemes2020.com/divi-theme-editor-global-defaults/
